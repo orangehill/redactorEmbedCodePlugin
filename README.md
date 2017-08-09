@@ -2,7 +2,7 @@
 
 Based on the [Redactor Video Plugin](https://imperavi.com/redactor/plugins/video/) code.
 
-##Usage
+## Usage
 
 1. Include the file.
 2. Add the 'embedCode' to Redactor configuration object under 'plugins'. 
