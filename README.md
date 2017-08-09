@@ -1,4 +1,4 @@
-embedCode is a [Redactor](https://imperavi.com/redactor/) plugin that allows users to insert embed codes from e.g. social websites (Instagram, Twitter, Facebook, Pinterest etc.)
+*embedCode* is a [Redactor](https://imperavi.com/redactor/) plugin that allows users to insert embed codes from e.g. social websites (Instagram, Twitter, Facebook, Pinterest etc.)
 
 Based on the [Redactor Video Plugin](https://imperavi.com/redactor/plugins/video/) code.
 
@@ -20,3 +20,4 @@ $('#redactor').redactor({
 The plugin is assuming the usage of [Font Awesome](fontawesome.io/) icon set. If you'd like to change the class used, edit the following per your liking:
 
 ```<i class="fa fa-code"></i>```
+
