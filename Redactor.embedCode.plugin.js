@@ -78,7 +78,7 @@
                 // insert
                 this.air.collapsed();
 
-                this.insert.html(data);
+                this.insert.raw(data);
             }
         };
     };
